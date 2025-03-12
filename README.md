@@ -1,10 +1,11 @@
-# Third Person Platformer
+# Third Person Platformer with UI
 
-A simple third person character controller in Unity
+A simple third person character controller in Unity with a basic user interface
 
 ## Demo
 
-https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
+
+
 
 ## Cloning & Setting Up the Project
 
@@ -23,10 +24,10 @@ https://github.com/user-attachments/assets/91485280-b86b-4c82-ac11-2a5107730e94
 - Jump, Double Jump with Space
 - Dash with Shift
 - Collect Coins by moving over them
-- Score Counter on the top right
+- Score Counter on the top right with animated score updates
+- Basic settings menu to change the player speed
+- In-World canvas to explain controls to player
 
 ## Credits
 
 Uses coin model from [Quaternius](https://quaternius.com/) (Sourced from [Poly Pizza](https://poly.pizza/m/QHZtj94fvh))
-
-
